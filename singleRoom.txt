@@ -1,0 +1,10 @@
+Single|a100|120|c100000|0
+Single|a101|100|c100003|0
+Single|a102|100| |1
+Single|a103|100| |1
+Single|a104|100| |1
+Single|a105|100| |1
+Single|a106|100| |1
+Single|a107|100| |1
+Single|a108|100| |1
+Single|a109|100| |1

@@ -1,0 +1,10 @@
+Double|b200|175|c100001|0
+Double|b201|175|c100002|0
+Double|b202|175| |1
+Double|b203|175| |1
+Double|b204|175| |1
+Double|b205|175| |1
+Double|b206|175| |1
+Double|b207|175| |1
+Double|b208|175| |1
+Double|b209|175| |1

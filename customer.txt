@@ -1,0 +1,7 @@
+c100000|Jun|jun0318|22|jun
+c100001|Yoshi|yoshi|12|yoshi
+c100002|Mario|mario|30|mario
+c100003|Peach|peach|26|peach
+c100004|Luigi|luigi|28|luigi
+c100005|Peggy|peggy|22|peggy
+c100006|Jia Wei|jiawei|22|jiawei
